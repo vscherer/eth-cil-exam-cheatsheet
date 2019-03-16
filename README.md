@@ -1,5 +1,5 @@
-# Status
-Done! This cheatsheet helped me a lot: I got a 6.0 in the Spring 2018 exam (with a bonus from the [project](https://github.com/Xivid/cil-text-classification-2018) which ranked #1 on kaggle). A LOT of the exam questions can be answered by copying from the cheatsheet. :)
+# Computational Intelligence Lab Exam Cheatsheet
+This cheatsheet was really helpful: I got a 6.0 in the Spring 2018 exam (with a bonus from the [project](https://github.com/Xivid/cil-text-classification-2018) which ranked #1 on kaggle). A LOT of the exam questions can be answered by copying from the cheatsheet.
 
 Feel free to go ahead and create your own fork if you want to extend it or update it in future years.
 
